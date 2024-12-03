@@ -17,7 +17,7 @@ A collection of CLI tools for interacting with Juniper Apstra.
 ## Prerequisites
 - Python
 - Juniper Apstra environment
-- Required Python libraries (list dependencies)
+- Required Python libraries (see apstra_function.py)
 
 ## Installation
 ```bash
@@ -26,7 +26,7 @@ Just get the 2 Python files :)
 
 ## Usage
 ```python
-./
+./apstra_cli.py
 ```
 
 ## Contributing
